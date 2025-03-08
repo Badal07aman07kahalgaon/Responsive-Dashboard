@@ -1,5 +1,5 @@
 ## Responsive Dashboard
-A responsive admin dashboard for Hetvi Fashion Hub using HTML, Tailwind CSS, and JavaScript.
+A responsive admin dashboard for Badal Trends Store using HTML, Tailwind CSS, and JavaScript.
 
 ## Features
 - Fixed sidebar with navigation 🚀  
